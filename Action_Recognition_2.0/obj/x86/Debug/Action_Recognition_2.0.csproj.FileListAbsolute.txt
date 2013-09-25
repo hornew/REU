@@ -1,0 +1,9 @@
+C:\Users\Austin\documents\visual studio 2010\Projects\Action_Recognition_2.0\Action_Recognition_2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Austin\documents\visual studio 2010\Projects\Action_Recognition_2.0\Action_Recognition_2.0\bin\Debug\Action_Recognition_2.0.exe
+C:\Users\Austin\documents\visual studio 2010\Projects\Action_Recognition_2.0\Action_Recognition_2.0\bin\Debug\Action_Recognition_2.0.pdb
+C:\Users\Austin\documents\visual studio 2010\Projects\Action_Recognition_2.0\Action_Recognition_2.0\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Austin\documents\visual studio 2010\Projects\Action_Recognition_2.0\Action_Recognition_2.0\bin\Debug\FrameGrabber.dll
+C:\Users\Austin\documents\visual studio 2010\Projects\Action_Recognition_2.0\Action_Recognition_2.0\bin\Debug\weka.dll
+C:\Users\Austin\documents\visual studio 2010\Projects\Action_Recognition_2.0\Action_Recognition_2.0\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Austin\documents\visual studio 2010\Projects\Action_Recognition_2.0\Action_Recognition_2.0\obj\x86\Debug\Action_Recognition_2.0.exe
+C:\Users\Austin\documents\visual studio 2010\Projects\Action_Recognition_2.0\Action_Recognition_2.0\obj\x86\Debug\Action_Recognition_2.0.pdb
